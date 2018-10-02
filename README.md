@@ -1,8 +1,9 @@
 # EEC731-Homework 3
+
 Weekend Movie Trip
+==================
 
 Blockbuster or art film?
-=========================
 1. Set up a data science project structure in a new git repository in your GitHub account
 2. Download the one of the MovieLens datasets from https://grouplens.org/datasets/movielens/
 3. Load the data set into panda data frames
@@ -15,6 +16,7 @@ Blockbuster or art film?
 Dataset
 =========
 The MovieLens 20M dataset was used for this project. Detailed information about the data can be found in the data/ml-20m folder
+
 About the dataset
 ==================
 
